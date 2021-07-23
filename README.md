@@ -4,7 +4,7 @@ An open source InfoSec newsletter
 
 ## Concept
 
-This project is intended as a simple and technologically robust means of publication and consumption of information security news.
+This project is intended as a simple and technologically robust means for collaborative publication and consumption of information security news.
 
 Sample briefings might include...
 
