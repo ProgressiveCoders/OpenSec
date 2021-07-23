@@ -2,9 +2,9 @@
 
 An open source InfoSec newsletter
 
-This project is intended as a simple and technologically robust means of publication and consumption of information security news.
+## Concept
 
-Submissions can be sent via a simple pull request, or (potentially, in the future) form submissions.
+This project is intended as a simple and technologically robust means of publication and consumption of information security news.
 
 Sample briefings might include...
 
@@ -12,3 +12,11 @@ Sample briefings might include...
 - Notice of an urgent security patch for a commonly used library
 - Explanation of a data breach from a commonly used vendor in movement spaces
 - Notice of a zero day vulnerability being actively exploited in the wild
+
+## Implementation
+
+Initially, the project will be implemented as a simple static site for easy modification and archival. Eventually, support for an email newsletter, along with a Slackbot for push notifications, is intended.
+
+## Contributing
+
+Submissions can be sent via a simple pull request. Other means of submission are to be explored as available.
