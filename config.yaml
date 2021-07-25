@@ -1,4 +1,4 @@
-# baseURL: ""
+baseURL: "/OpenSec"
 languageCode: "en-us"
 title: "OpenSec"
 theme: "anubis"
