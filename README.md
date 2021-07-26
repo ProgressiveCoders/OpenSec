@@ -8,10 +8,10 @@ This project is intended as a simple and technologically robust means for collab
 
 Sample briefings might include...
 
-- A collection of "low-hanging fruit" settings to enable or disable that dramatically decrease attack surface when deploying a piece of software
-- Notice of an urgent security patch for a commonly used library
-- Explanation of a data breach from a commonly used vendor in movement spaces
-- Notice of a zero day vulnerability being actively exploited in the wild
+- ⚙️ A collection of "low-hanging fruit" settings to enable or disable that dramatically decrease attack surface when deploying a piece of software.
+- ⚠️ Notice of an urgent security patch for a commonly used library.
+- ⁉️ Explanation of a data breach from a commonly used vendor in movement spaces.
+- ☢️ Notice of a zero day vulnerability being actively exploited in the wild.
 
 ## Implementation
 
