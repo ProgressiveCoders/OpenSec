@@ -15,7 +15,7 @@ Sample briefings might include...
 
 ## Implementation
 
-Initially, the project will be implemented as a simple static site for easy modification and archival. Eventually, support for an email newsletter, along with a Slackbot for push notifications, is intended.
+Initially, the project will be implemented as a simple static site for easy modification and archival. Support for an email newsletter, along with a Slackbot for push notifications, is intended.
 
 ## Contributing
 
