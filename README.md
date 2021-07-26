@@ -26,4 +26,4 @@ Submissions can be sent via a simple pull request. Other means of submission are
 
 ### Editors
 
-Editors: Do **not** touch the `gh-pages` branch. This  this is for automatic deployment **only**, and touching it will cause problems.
+Please **not** touch the `gh-pages` branch. This  this is for automated deployment **only**, and touching it will cause problems.
