@@ -1,4 +1,4 @@
-# 📰 OpenSec 
+# OpenSec 📰
 
 An open source InfoSec newsletter
 
