@@ -40,7 +40,7 @@ params:
   social:
   - id: github
     name: ProgressiveCoders
-    # url: "https://github.com/ProgressiveCoders/OpenSec"
+    url: "https://github.com/ProgressiveCoders/OpenSec"
 #  - id: hugo
 #    url: "https://gohugo.io/"
 #    icon: "hugo"
