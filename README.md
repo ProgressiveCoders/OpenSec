@@ -27,3 +27,8 @@ Submissions can be sent via a simple pull request. Other means of submission are
 ### 📝 Editors
 
 Please **not** touch the `gh-pages` branch. This  this is for automated deployment **only**, and touching it will cause problems.
+
+
+### 🧑‍💻 Developers
+
+Feature contributions are greatly appreciated! Check out the [issues](https://github.com/ProgressiveCoders/OpenSec/issues) directory to see what's needed!
