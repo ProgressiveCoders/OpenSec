@@ -19,7 +19,7 @@ Initially, the project will be implemented as a simple static site for easy modi
 
 ## Contributing
 
-### Submitting Content
+### 📝 Submitting Content
 
 Submissions can be sent via a simple pull request. Other means of submission are to be explored as available.
 
