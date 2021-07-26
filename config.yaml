@@ -12,7 +12,7 @@ menu:
     weight: 0
 
 params:
-  author: "Progressive Coders Network"
+  author: "OpenSec Contributors"
   # email: mail@example.org # used for microformats
   avatar: "/images/me.png" # used for microformats
   description: ""
