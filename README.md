@@ -19,4 +19,11 @@ Initially, the project will be implemented as a simple static site for easy modi
 
 ## Contributing
 
+### Submitting Content
+
 Submissions can be sent via a simple pull request. Other means of submission are to be explored as available.
+
+
+### Editors
+
+Editors: Do **not** touch the `gh-pages` branch. This  this is for automatic deployment **only**, and touching it will cause problems.
